@@ -46,3 +46,8 @@ curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
  ```
 
 See https://github.com/junegunn/vim-plug for detail.
+
+```bash
+# in vim
+:PlugInstall
+```
